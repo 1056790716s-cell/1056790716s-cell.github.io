@@ -16,16 +16,4 @@ CCTV13 新闻,webview://https://tv.cctv.com/live/cctv13/
 CCTV15 音乐,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV15 音乐,webview://https://tv.cctv.com/live/cctv15/
 
-深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
-浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
-广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
-广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
 
-
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-
-
-浙江卫视,webview://https://www.cztv.com/liveTV/101
-
-
-深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867&u-link=1
