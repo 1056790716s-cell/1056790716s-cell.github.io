@@ -19,6 +19,6 @@ CCTV15 音乐,webview://https://tv.cctv.com/live/cctv15/
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
 广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
 广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
-玉林综合，webview://[https://www.yltvb.com/application/tvradio/h5/tv/?id=3289&uin=4042](https://www.yltvb.com/application/tvradio/h5/tv/?id=3289&uin=4042)
+玉林综合,webview://https://www.yltvb.com/application/tvradio/h5/tv/?id=3289&uin=4042
 
 
